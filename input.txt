@@ -1,5 +1,4 @@
-funcion ejemplo() {
-    imprimir("hola");
-}
-
-ejemplo ();
+variable mensaje = "sintaxis y semantica";
+variable resultado = "vacio";
+resultado = mayusculas(mensaje);
+imprimir(resultado);
