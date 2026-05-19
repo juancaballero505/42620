@@ -1,0 +1,5 @@
+funcion calcular() {
+    imprimir("analisis correcto");
+}
+
+calcular();
