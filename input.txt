@@ -1,4 +1,5 @@
-variable mensaje = "sintaxis y semantica";
-variable resultado = "vacio";
-resultado = mayusculas(mensaje);
-imprimir(resultado);
+funcion ejemplo() {
+    imprimir("hola");
+}
+
+ejemplo ();
