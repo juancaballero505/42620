@@ -1,12 +1,13 @@
 {
-  "name": "antlr-calculator-project",
+  "name": "analizador-ebnf-42620",
   "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "antlr4": "java -jar antlr-4.13.2-complete.jar -Dlanguage=JavaScript gramatica.g4 -o .antlr"
   },
   "keywords": [],
   "author": "",
