@@ -21,6 +21,8 @@ Asegúrate de tener instalado en tu sistema:
 
 Configura el código fuente que deseas analizar dentro del archivo input.txt en la raíz del proyecto.
 
-Ejecuta el analizador con el siguiente comando:npm start 
+Ejecuta el analizador con el siguiente comando:  npm start 
+
+NOTA IMPORTANTE: Los archivos que se generan como el gramaticaLexer.js , gramaticaParser.js ..etc , se generan en la carpeta :  .antlr  , no esta en una carpeta generated , por alguna razon asi me funciona en mi proyecto.
 =====================================================================================================================
 
